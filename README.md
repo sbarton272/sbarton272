@@ -1,4 +1,4 @@
-👋 Hi, I’m Spencer! Find more about me at spencerbarton.com
+👋 Hi, I’m Spencer! Find more about me at [spencerbarton.com](https://spencerbarton.com/)
 
 <!---
 sbarton272/sbarton272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
